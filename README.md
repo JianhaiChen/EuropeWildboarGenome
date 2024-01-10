@@ -15,7 +15,7 @@ https://onlinelibrary.wiley.com/doi/10.1111/age.13181
 
 DOI: 10.1111/age.13181
 
-The genome annotation files could be downloaded here:
+The genome annotation files of European wild boar (ASM2165605v1) could be downloaded here:
 
 https://drive.google.com/drive/folders/1JBD6FMwKtImZ6TlxfHaMVPcFc0f1Ppk6?usp=drive_link
 
