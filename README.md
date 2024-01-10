@@ -67,11 +67,11 @@ all_without_trf.gff
 
 Gene Annotation
 
-Ssc_EuropeanWildboar.coding.gene.V1.20210311.gff
+Ssc_EuropeanWildboar.coding.gene.V1.20210311.gff, https://drive.google.com/file/d/1vcwyrYihpZGSmN40lEsQgj_k8mo31m8C/view?usp=sharing
 
-Ssc_EuropeanWildboar.coding.gene.V1.20210311.cds
+Ssc_EuropeanWildboar.coding.gene.V1.20210311.cds, https://drive.google.com/file/d/1B8Mr8f05XNvMZZ7GXPc1aO8846MNgFrS/view?usp=drive_link
 
-Ssc_EuropeanWildboar.coding.gene.V1.20210311.pep
+Ssc_EuropeanWildboar.coding.gene.V1.20210311.pep, https://drive.google.com/file/d/1GmyBEEmRbuKB5fWZgpYrpiQrunesmiW0/view?usp=drive_link
 
 jianhaichen@uchicago.edu
 
