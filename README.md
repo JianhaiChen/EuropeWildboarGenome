@@ -1,4 +1,4 @@
-# EuropeWildboarGenome
+# Europe Wild boar Genome Annotation
 
 The de novo assembly of a European wild boar genome revealed unique patterns of chromosomal structural variations and segmental duplications
 
