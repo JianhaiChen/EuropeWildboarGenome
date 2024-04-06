@@ -74,7 +74,7 @@ Ssc_EuropeanWildboar.coding.gene.V1.20210311.cds, https://drive.google.com/file/
 Ssc_EuropeanWildboar.coding.gene.V1.20210311.pep, https://drive.google.com/file/d/1GmyBEEmRbuKB5fWZgpYrpiQrunesmiW0/view?usp=drive_link
 
 All data can also be downloaded from Zenodo: 
-https://doi.org/10.1111/age.13181
+[https://doi.org/10.1111/age.13181](https://zenodo.org/doi/10.5281/zenodo.10529159)
 
 
 
